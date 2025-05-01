@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Optional: Default app name or other strings -->
+    <string name="app_name">BistroRaterApp</string>
+
+    <!-- Dish type list for spinner -->
+    <string-array name="dish_types">
+        <item>Appetizer</item>
+        <item>Entrée</item>
+        <item>Dessert</item>
+    </string-array>
+
+</resources>
